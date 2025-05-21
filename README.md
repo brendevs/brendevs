@@ -1,5 +1,5 @@
-# 👋 Ramzel's here!
- :technologist: A Software Engineer that also wants to know about our purpose in life.<br/>
+# 👋 Brendevs!
+ :technologist: A Junior Developer Looking for high paying Jobs.<br/>
 👩🏻‍🎓 Studied Criminology at Enverga University in the Philippines.<br/>
 💭 For now, currently learning about some tools we need to solve some problems in our world :)<br/>
 
