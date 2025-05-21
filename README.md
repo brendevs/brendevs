@@ -3,8 +3,8 @@
 👩🏻‍🎓 Studied Criminology at Enverga University in the Philippines.<br/>
 💭 For now, currently learning about some tools we need to solve some problems in our world :)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=ramzell&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramzell&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=brendevs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brendevs&theme=dark&hide_border=true)<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
