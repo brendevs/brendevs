@@ -1,7 +1,7 @@
 # 👋 Brendevs!
- :technologist: A Junior Developer Looking for high paying Jobs.<br/>
+ :technologist: A Junior Developer.<br/>
 👩🏻‍🎓 Studied Criminology at Enverga University in the Philippines.<br/>
-💭 For now, currently learning about some tools we need to solve some problems in our world :)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=brendevs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brendevs&theme=dark&hide_border=true)<br/>
